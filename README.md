@@ -11,17 +11,19 @@ Go to Google Apps Script and create a new project.
 Copy and paste the HTML and Apps Script code into your project.
 
 2. Set Up HTML
-In the Apps Script editor, create a new HTML file (index.html) and paste the HTML code available on repo:
+In the Apps Script editor, create a new HTML file (index.html) and paste the HTML code available on repo.
 
 3. Set Up Apps Script
-Create a new script file and paste the Apps Script code also available on repo:
+Create a new script file and paste the Apps Script code also available on repo.
 
-4. Deploy the Script
+4. On Services, import Drive App
+
+5. Deploy the Script
 Save your project.
 
 Click on Deploy > Test deployments > Select type > Web app.
 
 Set the access rules.
 
-5. Use the Web App
+6. Use the Web App
 Once deployed, open the web app URL.
